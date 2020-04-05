@@ -1,2 +1,2 @@
 # Blog
-Blog
+Vue + .Net Core 
